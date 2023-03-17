@@ -24,7 +24,6 @@
  * @param x0 { number } центр области кластеризации по X
  * @param y0 { number } центр области кластеризации по Y
  * @param zoom { number } масштаб увеличения области кластеризации
- *
  * @return { i: number; j: number; count: number }[]
  
 module.exports = function(points, x0, y0, zoom) {
